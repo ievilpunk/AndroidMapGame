@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
   <string name="app_name">AndroidMapGame</string>
+  <string name="map_api_key">AIzaSyDSto5GBARUiFlOyaUaUiJ2WdpIv5K4a2A</string>
 </resources>
