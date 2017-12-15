@@ -7,7 +7,7 @@ using Android.Locations;
 
 namespace AndroidMapGame
 {
-    [Activity(Label = "AndroidMapGame", MainLauncher = true)]
+    [Activity(Label = "AndroidMapGame"/*, MainLauncher = true*/)]
     public class MainActivity : Activity, IOnMapReadyCallback, ILocationListener
     {
         private static LatLng current = new LatLng(42.6382576, -73.73495911);
